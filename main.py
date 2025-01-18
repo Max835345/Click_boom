@@ -8,7 +8,6 @@ pygame.display.set_caption('CLICK_BOOM')
 
 BLACK = (0, 0, 0)
 RED = (225, 0, 50)
-
 l_ps = None
 ball_radius = 20
 ball_pos = None
